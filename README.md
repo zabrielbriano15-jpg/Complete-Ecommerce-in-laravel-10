@@ -514,6 +514,5 @@ Saran-saran di atas bertujuan untuk meningkatkan kualitas kode, maintainability,
 
 ## Pembuat
 
-Tes diselesaikan oleh: [Nama Anda]  
+Tes diselesaikan oleh: Zabriel Briano  
 Tanggal: 20 Januari 2026  
-Durasi: ~3 jam
