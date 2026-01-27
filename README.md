@@ -1,4 +1,4 @@
-(AI Prompt: https://claude.ai/share/e9089ef5-a6c8-49c8-8984-c99f1852ea64)
+# AI Prompt: https://claude.ai/share/e9089ef5-a6c8-49c8-8984-c99f1852ea64
 
 
 
